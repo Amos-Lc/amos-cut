@@ -2,9 +2,9 @@
 
 ## 下载 AMOS 剪辑台
 
-**[下载 Windows 64 位安装包（0.9.37）](https://github.com/Amos-Lc/amos-cut/releases/download/v0.9.37/AMOS-Cut-0.9.37-Setup-x64.exe)**
+**[下载 Windows 64 位安装包（0.9.38）](https://github.com/Amos-Lc/amos-cut/releases/download/v0.9.38/AMOS-Cut-0.9.38-Setup-x64.exe)**
 
-[发行说明与 SHA-256 校验](https://github.com/Amos-Lc/amos-cut/releases/tag/v0.9.37)
+[发行说明与 SHA-256 校验](https://github.com/Amos-Lc/amos-cut/releases/latest)
 
 **AMOS 剪辑台是一款依托于智能体、高度自动化的桌面创作与剪辑软件**，核心主打 **「自动生成 · 自动取回 · 自动剪辑」** 一条龙体验。
 
